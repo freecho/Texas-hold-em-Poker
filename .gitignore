@@ -1,0 +1,6 @@
+build/
+.idea/
+cmake-build-debug/
+# 忽略 Qt 的用户配置文件
+*.pro.user
+*.pro.user.*
