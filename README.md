@@ -35,7 +35,7 @@
 
 
 # 贡献
-程序架构+后端实现：[codecreater](https://github.com/2507544221)
+程序架构+后端实现：[freecho](https://github.com/2507544221)
 
 UI以及QT相关：[shenxi11](https://github.com/shenxi11)
 
