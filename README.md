@@ -34,7 +34,11 @@
 将游戏运行逻辑解耦，功能分块给不同的类处理
 
 ### 前端架构
-TODO
+利用QT Widgets技术体系实现，QML进行界面美化。
+
+主要控件为QStackedWidget实现页面转换，QPushButton实现交互，QLabel用于显示各种贴图
+
+核心机制是利用QT的信号和槽处理控件的交互事件
 
 # 贡献
 程序架构+后端实现：[freecho](https://github.com/2507544221)
